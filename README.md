@@ -3,8 +3,8 @@ A game made in C# using the monogame frameworks, here there are only the main sc
 [Game Site]([URL](https://raulronald.itch.io/monsters-of-creation)https://raulronald.itch.io/monsters-of-creation)
 
 01. MAIN MENU
-![Texto Alternativo](painels/menu.png)
+![Texto Alternativo](painels/menu.jpg)
 02. THANKS AND NOTICES.
-![Texto Alternativo](painels/notices.png)
+![Texto Alternativo](painels/notices.jpg)
 03. GAME LAYOUT
-![Texto Alternativo](painels/game.png)
+![Texto Alternativo](painels/game.jpg)
